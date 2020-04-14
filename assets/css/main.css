@@ -637,7 +637,7 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
     margin: 30px 0 0 30px; } }
 
 header {
-  background: url(../img/galway2.jpg) center center;
+  background: url(../img/galwayS.jpg) center center;
   background-size: cover; }
   @media only screen and (min-width: 220px) {
     header {
@@ -738,12 +738,12 @@ footer {
       display: flex;
       margin: auto;
       border-radius: 60%;
-      background: url(../img/face.JPG) no-repeat; }
+      background: url(../img/face.jpg) no-repeat; }
     .about-lock .face1-img {
       height: 180px;
       width: 180px;
       border-radius: 50%;
-      background: url(../img/android.JPG);
+      background: url(../img/me.jpg);
       margin: auto; }
     .about-lock .flip-container {
       -webkit-perspective: 1000;
@@ -1376,7 +1376,7 @@ form {
 
 #h_small {
   height: 170px;
-  background: url(../img/galway2.jpg) center center;
+  background: url(../img/galwayS.jpg) center center;
   background-size: cover; }
   #h_small #nav_small {
     float: right;
