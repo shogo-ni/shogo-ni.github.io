@@ -372,6 +372,7 @@ th {
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
+  
 
 .icon-twitter-square:before {
   content: "\f081"; }
@@ -598,15 +599,15 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
   .logo {
     height: 70px;
     width: 70px;
-    background: url(../img/logo.png) center center;
+    background: url(../img/kao2.png) center center;
     background-size: 70px 47px;
     background-repeat: no-repeat;
     position: fixed;
     left: 5px;
     top: 0px;
     padding-right: 5px;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
     z-index: 888; }
   a.back-to-top {
     display: none;
@@ -626,12 +627,12 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
   .arrow {
     display: none; }
   .logo {
-    height: 90px;
-    width: 90px;
-    background: url(../img/logo.png) center center;
+    height: 180px;
+    width: 180px;
+    background: url(../img/kao2.png) center center;
     width: 88px;
     height: 47px;
-    background-size: 88px 47px;
+    background-size: 78px 50px;
     background-repeat: no-repeat;
     float: left;
     margin: 30px 0 0 30px; } }
@@ -653,7 +654,7 @@ header {
     margin: 30px 30px 30px; }
     header nav a {
       margin-left: 20px;
-      color: rgba(0, 0, 0, 0.5); }
+      color: rgba(255, 255, 255, 0.8); }
       @media only screen and (min-width: 220px) {
         header nav a {
           display: none; } }
@@ -661,10 +662,10 @@ header {
         header nav a {
           display: inline-block; } }
       header nav a:hover {
-        color: black; }
+        color: rgb(0, 0, 0); }
   header h1 {
     text-align: center;
-    color: rgba(0, 0, 0, 0.5);
+    color: rgba(255, 255, 255, 0.8);
     text-transform: uppercase;
     letter-spacing: 0.05cm;
     margin-bottom: 20px;
@@ -687,7 +688,7 @@ header {
     header h1 span {
       display: inline-block;
       padding: 0.2em 0.5em;
-      border: rgba(0, 0, 0, 0.5) solid 10px; }
+      border: rgba(255, 255, 255, 0.5) solid 10px; }
       @media only screen and (min-width: 220px) {
         header h1 span {
           padding: 0.2em 0.5em; } }
@@ -700,7 +701,7 @@ header {
   header .kicker {
     text-align: center;
     line-height: 1;
-    color: rgba(0, 0, 0, 0.5); }
+    color: rgba(255, 255, 255, 0.8); }
 
 footer {
   background: url(../img/galwayS3.jpg) center center;
@@ -715,9 +716,9 @@ footer {
       margin: 0;
       text-transform: uppercase;
       font-size: 12px;
-      color: rgba(0, 0, 0, 0.4); }
+      color: rgba(255, 255, 255, 0.8); }
     footer .lockup a {
-      color: rgba(0, 0, 0, 0.6);
+      color: rgba(255, 255, 255, 0.6);
       display: inline-block;
       margin-right: 30px; }
       footer .lockup a:hover {
@@ -737,13 +738,13 @@ footer {
       display: -ms-flexbox;
       display: flex;
       margin: auto;
-      border-radius: 60%;
-      background: url(../img/face.jpg) no-repeat; }
+      border-radius: 40%;
+      background: url(../img/me.png) center center no-repeat; }
     .about-lock .face1-img {
       height: 180px;
       width: 180px;
-      border-radius: 50%;
-      background: url(../img/me.jpg);
+      border-radius: 40%;
+      background: url(../img/face.jpg);
       margin: auto; }
     .about-lock .flip-container {
       -webkit-perspective: 1000;
