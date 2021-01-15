@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "研究成果一覧"
-date:   2016-1-15 8:21:16
+date:   2021-1-15 8:21:16
 categories: blog
 ---
 
@@ -9,20 +9,20 @@ categories: blog
 > **Shogo Nishimura**, Daiki Kimata, Wataru Sato, Masayuki Kanbara, Yuichiro Fujimoto, Hirokazu Kato, and Norihiro Hagita. “Positive Emotion Amplification by Representing Excitement Scene with TV Chat Agents," Sensors published by Multidisciplinary Digital Publishing Institute (MDPI), 20(24), 7330, 2020.
 
 ####査読付き国際会議
->*The 7th International Conference on Human-Agent Interaction (HAI)*
+>*The 7th International Conference on Human-Agent Interaction (HAI)*<br>
 >**Shogo Nishimura**, Takuya Nakamura, Masayuki Kanbara, Wataru Sato, and Norihiro Hagita. “Evaluation of Pacing for Dialog Robots to Build Trust Relationships with Human Users,” pp. 300-302, 2019 (Poster Session.) 
 
->*The 21st International Conference on Human-Computer Interaction (HCII)*
+>*The 21st International Conference on Human-Computer Interaction (HCII)*<br>
 >**Shogo Nishimura**, Masayuki Kanbara, and Norihiro Hagita. “Atmosphere Sharing with TV Chat Agents for Increase of User’s Motivation for Conversation,” pp.482-492, published by Springer, 2019 (Oral session.)
 
->*The 9th International Conference on Social Robotics (ICSR)*
+>*The 9th International Conference on Social Robotics (ICSR)*<br>
 >**Shogo Nishimura**, Hiromichi Kawanami, Masayuki Kanbara, and Norihiro Hagita. “A TV Chat Robot with Time-Shifting Function for Daily-Use Communication,” pp.516-525, published by Springer, 2017 (Oral session.)
 
->*The 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)*
+>*The 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)*<br>
 >**Shogo Nishimura**, Hiromichi Kawanami, Masayuki Kanbara, Norihiro Hagita, “TV Chat Robots Allowing Daily-Use Chat with a User by Synchronizing TV Enthusiasm”, 3rd Workshop on Groups in Human-Robot Interaction, 2017 (Oral session.)
 
->*2017 IEEE International Conference on Robotics and Automation (ICRA)*
+>*2017 IEEE International Conference on Robotics and Automation (ICRA)*<br>
 >**Shogo Nishimura**, Hiromichi Kawanami, Masayuki Kanbara, Norihiro Hagita, “Empathetic Speech Synthesis Applied to a Chat Robot to Obtain the User’s Confidence,” 2017 (Poster session.)
 
->*The 12th International Conference on Human-Robot Interaction (HRI)*
+>*The 12th International Conference on Human-Robot Interaction (HRI)*<br>
 >**Kana Uotani**, Masayuki Kanbara, Shogo Nishimura, Kanda Masataka, Satoru Satake, Norihiro Hagita, “Social Common Sense Modeling of a Spread-out Queue in Public Space for a Service Robot”, 2017 (Poster session.)
