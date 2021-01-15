@@ -629,7 +629,7 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
   .logo {
     height: 180px;
     width: 180px;
-    background: url(../img/kao2.png) center center;
+/*     background: url(../img/kao2.png) center center; */
     width: 88px;
     height: 47px;
     background-size: 78px 50px;
@@ -739,7 +739,7 @@ footer {
       display: flex;
       margin: auto;
       border-radius: 40%;
-      background: url(../img/face2.JPG) center center no-repeat; }
+      background: url(../img/face2.jpg) center center no-repeat; }
     .about-lock .face1-img {
       height: 180px;
       width: 180px;
