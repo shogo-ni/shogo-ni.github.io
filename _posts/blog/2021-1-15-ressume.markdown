@@ -5,6 +5,7 @@ date:   2021-1-15 8:21:16
 categories: blog
 ---
 
+---
 **出版物**
 ***
 > **Shogo Nishimura**, Daiki Kimata, Wataru Sato, Masayuki Kanbara, Yuichiro Fujimoto, Hirokazu Kato, and Norihiro Hagita. “Positive Emotion Amplification by Representing Excitement Scene with TV Chat Agents," Sensors published by Multidisciplinary Digital Publishing Institute (MDPI), 20(24), 7330, 2020.
@@ -29,3 +30,4 @@ categories: blog
 
 >*The 12th International Conference on Human-Robot Interaction (HRI)*<br>
 >**Kana Uotani**, Masayuki Kanbara, Shogo Nishimura, Kanda Masataka, Satoru Satake, Norihiro Hagita, “Social Common Sense Modeling of a Spread-out Queue in Public Space for a Service Robot”, 2017 (Poster session.)
+---
