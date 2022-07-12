@@ -10,6 +10,11 @@ categories: blog
 
 ***
 
+_**Applied Sciences published by Multidisciplinary Digital Publishing Institute　(MDPI)**_
+
+>**Shogo Nishimura**, Takuya Nakamura, Wataru Sato, Masayuki Kanbara, Yuichiro Fujimoto,
+Hirokazu Kato, and Norihiro Hagita. “Vocal Synchrony of Robots Boosts Positive Affective Empathy" Applied Sciences published by Multidisciplinary Digital Publishing Institute (MDPI), 11(6), 2502, 2021.
+
 _**Sensors published by Multidisciplinary Digital Publishing Institute (MDPI)**_
 
 >**Shogo Nishimura**, Daiki Kimata, Wataru Sato, Masayuki Kanbara, Yuichiro Fujimoto, Hirokazu Kato, and Norihiro Hagita. “Positive Emotion Amplification by Representing Excitement Scene with TV Chat Agents," Sensors published by Multidisciplinary Digital Publishing Institute (MDPI), 20(24), 7330, 2020.
