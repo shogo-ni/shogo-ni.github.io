@@ -638,7 +638,7 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
     margin: 30px 0 0 30px; } }
 
 header {
-  background: url(../img/galwayS2.jpg) center center;
+  background: url(../img/top_summer.jpg) center center;
   background-size: cover; }
   @media only screen and (min-width: 220px) {
     header {
@@ -704,7 +704,7 @@ header {
     color: rgba(255, 255, 255, 0.8); }
 
 footer {
-  background: url(../img/galwayS3.jpg) center center;
+  background: url(../img/bottom_summer.jpg) center center;
   background-size: cover; }
   footer .lockup {
     padding: 50px 30px; }
@@ -1377,7 +1377,7 @@ form {
 
 #h_small {
   height: 170px;
-  background: url(../img/galwayS2.jpg) center center;
+  background: url(../img/top_summer.jpg) center center;
   background-size: cover; }
   #h_small #nav_small {
     float: right;
