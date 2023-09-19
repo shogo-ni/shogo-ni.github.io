@@ -361,7 +361,15 @@ th {
   font-weight: normal;
   font-style: normal; }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="icon-"]:before, 
+[class^="icon-"]:after,
+[class*=" icon-"]:after {
+  font-family: Flaticon;
+  font-size: 20px;
+  font-style: normal;
+  margin-left: 20px;
+}
+ [class*=" icon-"] {
   font-family: 'icomoon';
   speak: none;
   font-style: normal;
@@ -372,7 +380,6 @@ th {
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
-  
 
 .icon-twitter-square:before {
   content: "\f081"; }
@@ -878,8 +885,7 @@ footer {
 
 .section-contact {
   background: #e5eaee;
-  text-align: center; 
-  margin-bottom: 2em;}
+  text-align: center; }
 
 .social-links {
   max-width: 700px;
@@ -1279,7 +1285,7 @@ form {
     display: -moz-flex;
     display: -ms-flexbox;
     display: flex;
-    margin: 10 auto;
+    /* margin: 10 auto; */
     -webkit-box-align: center;
     box-align: center;
     -webkit-align-items: center;
