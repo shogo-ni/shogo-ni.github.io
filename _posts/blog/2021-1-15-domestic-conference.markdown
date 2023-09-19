@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "国内学会・研究会発表履歴"
-date: 2023-09-19 8:31:11
+date: 2021-01-15 8:31:11
 categories: blog
 ---
 

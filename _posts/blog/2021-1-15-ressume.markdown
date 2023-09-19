@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "研究成果一覧"
-date: 2023-09-19 8:21:16
+date: 2021-01-15 8:21:16
 categories: blog
 ---
 
