@@ -878,7 +878,8 @@ footer {
 
 .section-contact {
   background: #e5eaee;
-  text-align: center; }
+  text-align: center; 
+  margin-bottom: 2em;}
 
 .social-links {
   max-width: 700px;
