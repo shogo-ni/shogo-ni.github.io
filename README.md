@@ -4,9 +4,7 @@ Sleek Blog
 
 [Live Website](http://gearoidoconnor.ie)
 
-
 A blog project including full setup for Jekyll, GulpJS, SASS, AutoPrefixer &amp; BrowserSync
-
 
 ## System Preparation
 
@@ -30,3 +28,5 @@ This will give you file watching, browser synchronisation, auto-rebuild, CSS inj
 ```shell
 $ gulp watch
 ```
+
+# Update blogs
