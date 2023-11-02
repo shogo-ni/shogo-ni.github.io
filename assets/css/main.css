@@ -592,16 +592,26 @@ body {
 h2 {
   color: #303e49;
   text-align: center;
-  padding: 50px 0 30px; }
+  padding: 50px 0 30px; 
+}
 
 @media sceen and (max-width: 480px) {
   h2 {
-    padding: 50px 0 50px; } }
+    padding: 50px 0 50px;
+  } 
+}
 
 h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_small .kicker {
   font-size: 14px;
   font-weight: 700;
   text-transform: uppercase; }
+
+h3 {
+  font-size: 2.5em;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 40px;
+}
 
 @media only screen and (min-width: 1070px) {
   .logo {
@@ -731,6 +741,13 @@ footer {
       margin-right: 30px; }
       footer .lockup a:hover {
         color: black; }
+    footer button{
+      background-color: #303e49;
+      border-radius: 0.3em;
+      border-color: white;
+      color: white;
+      padding: 0 1em 0 1em;
+    }
 
 @media only screen and (min-width: 220px) {
   .about-lock {
@@ -1223,14 +1240,17 @@ form {
       outline: none;
       border-color: #aebeca; }
   form .submit-wrap {
-    text-align: right; }
+    text-align: right;
+   }
   form [type="submit"] {
     margin-top: 13px;
     background: #303e49;
     color: white;
     font-size: 18px;
     text-transform: uppercase;
-    width: 33%; }
+    width: 33%;
+    border-radius: 0.4em;
+  }
     form [type="submit"]:hover {
       background: #587287;
       border-color: #587287; }
