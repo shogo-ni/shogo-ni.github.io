@@ -1333,8 +1333,8 @@ form {
     letter-spacing: -1px;
     line-height: 1;
     padding-left: 10px; }
-    .post-title:hover {
-      padding-left: 10px; }
+  .post-title:hover {
+    padding-left: 10px; }
   .post-meta {
     margin-bottom: 0px;
     padding-bottom: 20px;

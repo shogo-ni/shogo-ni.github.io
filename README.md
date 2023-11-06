@@ -134,6 +134,8 @@ MacOS [Intel]で動作を確認
 
   `$ jekyll serve` - see: http://localhost:4000/
 
+  その他 jekyllコマンド　`https://jekyllrb-ja.github.io/docs/usage/`
+
 <br>
 
 **development mode**
