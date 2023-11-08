@@ -641,20 +641,6 @@ h3 {
     background-color: #303e49;
     border-radius: 30px; } }
 
-@media only screen and (min-width: 220px) {
-  .arrow {
-    display: none; }
-  .logo {
-    height: 180px;
-    width: 180px;
-    background: url(../img/_i_icon_14646_icon_146460_128.png) center center;
-    width: 88px;
-    height: 47px;
-    background-size: 78px 50px;
-    background-repeat: no-repeat;
-    float: left;
-    margin: 30px 0 0 30px; } }
-
 header {
   background: url(../img/top_summer.jpg) center center;
   background-size: cover; }
