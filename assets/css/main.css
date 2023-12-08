@@ -604,7 +604,8 @@ h2 {
 h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_small .kicker {
   font-size: 14px;
   font-weight: 700;
-  text-transform: uppercase; }
+/*  text-transform: uppercase; */
+}
 
 h3 {
   font-size: 2.5em;
