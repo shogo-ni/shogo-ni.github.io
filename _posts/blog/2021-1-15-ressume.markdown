@@ -14,12 +14,14 @@ categories: blog
 _**Applied Sciences published by Multidisciplinary Digital Publishing Institute (MDPI)**_
 
 > **Shogo Nishimura**, Takuya Nakamura, Wataru Sato, Masayuki Kanbara, Yuichiro Fujimoto,
-> Hirokazu Kato, and Norihiro Hagita. “Vocal Synchrony of Robots Boosts Positive Affective Empathy" Applied Sciences published by Multidisciplinary Digital Publishing Institute (MDPI), 11(6), 2502, 2021.
+> Hirokazu Kato, and Norihiro Hagita. 
+<span style="color: #DE3163;">Vocal Synchrony of Robots Boosts Positive Affective Empathy</span>. Applied Sciences published by Multidisciplinary Digital Publishing Institute (MDPI), 11(6), 2502, 2021.
 > <a href="https://www.mdpi.com/2076-3417/11/6/2502">[Link]</a>
 
 _**Sensors published by Multidisciplinary Digital Publishing Institute (MDPI)**_
 
-> **Shogo Nishimura**, Daiki Kimata, Wataru Sato, Masayuki Kanbara, Yuichiro Fujimoto, Hirokazu Kato, and Norihiro Hagita. “Positive Emotion Amplification by Representing Excitement Scene with TV Chat Agents," Sensors published by Multidisciplinary Digital Publishing Institute (MDPI), 20(24), 7330, 2020.
+> **Shogo Nishimura**, Daiki Kimata, Wataru Sato, Masayuki Kanbara, Yuichiro Fujimoto, Hirokazu Kato, and Norihiro Hagita. 
+<span style="color: #DE3163;">Positive Emotion Amplification by Representing Excitement Scene with TV Chat Agents</span>. Sensors published by Multidisciplinary Digital Publishing Institute (MDPI), 20(24), 7330, 2020.
 > <a href="https://www.mdpi.com/1424-8220/20/24/7330">[Link]</a>
 
 ---
@@ -30,39 +32,45 @@ _**Sensors published by Multidisciplinary Digital Publishing Institute (MDPI)**_
 
 _**The 15th IEEE/SICE International Symposium on System Integrations (SII 2023)**_
 
-> Akira Utsumi, **Shogo Nishimura**, Akira Ota, Yukiko Horikawa, Takahiro Miyashita. (2023). Activity Monitoring and Management in Avatar-Based Interactions. 2023 IEEE/SICE International Symposium on System Integration (SII), Special Session. January 20, 2023, Atlanta, USA.
+> Akira Utsumi, **Shogo Nishimura**, Akira Ota, Yukiko Horikawa, Takahiro Miyashita. (2023). 
+<span style="color: #DE3163;">Activity Monitoring and Management in Avatar-Based Interactions</span>. 2023 IEEE/SICE International Symposium on System Integration (SII), Special Session. January 20, 2023, Atlanta, USA.
 > <a href="https://ieeexplore.ieee.org/document/10039192">[Link]</a>
 
-> Yukiko Horikawa, Takahiro Miyashita, Akira Utsumi, **Shogo Nishimura**, Satoshi Koizumi. (2023). Cybernetic Avatar Platform for Supporting Social Activities of All People. 2023 IEEE/SICE International Symposium on System Integration (SII), Special Session. January 20, 2023, Atlanta, USA.
+> Yukiko Horikawa, Takahiro Miyashita, Akira Utsumi, **Shogo Nishimura**, Satoshi Koizumi. (2023). <span style="color: #DE3163;">Cybernetic Avatar Platform for Supporting Social Activities of All People</span>. 2023 IEEE/SICE International Symposium on System Integration (SII), Special Session. January 20, 2023, Atlanta, USA.
 > <a href="https://ieeexplore.ieee.org/document/10039460">[Link]</a>
 
 ---
 
 _**The 7th International Conference on Human-Agent Interaction (HAI 2019)**_
 
-> **Shogo Nishimura**, Takuya Nakamura, Masayuki Kanbara, Wataru Sato, and Norihiro Hagita. “Evaluation of Pacing for Dialog Robots to Build Trust Relationships with Human Users,” pp. 300-302, 2019 (Poster Session.)
+> **Shogo Nishimura**, Takuya Nakamura, Masayuki Kanbara, Wataru Sato, and Norihiro Hagita. 
+<span style="color: #DE3163;">Evaluation of Pacing for Dialog Robots to Build Trust Relationships with Human Users</span>. pp. 300-302, 2019 (Poster Session.)
 > <a href="https://dl.acm.org/doi/10.1145/3349537.3352799">[Link]</a>
 
 _**The 21st International Conference on Human-Computer Interaction (HCII 2019)**_
 
-> **Shogo Nishimura**, Masayuki Kanbara, and Norihiro Hagita. “Atmosphere Sharing with TV Chat Agents for Increase of User’s Motivation for Conversation,” pp.482-492, published by Springer, 2019 (Oral session.)
+> **Shogo Nishimura**, Masayuki Kanbara, and Norihiro Hagita. 
+<span style="color: #DE3163;">Atmosphere Sharing with TV Chat Agents for Increase of User’s Motivation for Conversation</span>, pp.482-492, published by Springer, 2019 (Oral session.)
 > <a href="https://dl.acm.org/doi/abs/10.1007/978-3-030-22012-9_35">[Link]</a>
 
 ---
 
 _**The 9th International Conference on Social Robotics (ICSR 2017)**_
 
-> **Shogo Nishimura**, Hiromichi Kawanami, Masayuki Kanbara, and Norihiro Hagita. “A TV Chat Robot with Time-Shifting Function for Daily-Use Communication,” pp.516-525, published by Springer, 2017 (Oral session.)
+> **Shogo Nishimura**, Hiromichi Kawanami, Masayuki Kanbara, and Norihiro Hagita. 
+<span style="color: #DE3163;">A TV Chat Robot with Time-Shifting Function for Daily-Use Communication</span>. pp.516-525, published by Springer, 2017 (Oral session.)
 > <a href="https://link.springer.com/chapter/10.1007/978-3-319-70022-9_51">[Link]</a>
 
 _**The 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2017)**_
 
-> **Shogo Nishimura**, Hiromichi Kawanami, Masayuki Kanbara, Norihiro Hagita, “TV Chat Robots Allowing Daily-Use Chat with a User by Synchronizing TV Enthusiasm”, 3rd Workshop on Groups in Human-Robot Interaction, 2017 (Oral session.)
+> **Shogo Nishimura**, Hiromichi Kawanami, Masayuki Kanbara, Norihiro Hagita, <span style="color: #DE3163;"> TV Chat Robots Allowing Daily-Use Chat with a User by Synchronizing TV Enthusias”</span>, 3rd Workshop on Groups in Human-Robot Interaction, 2017 (Oral session.)
 
 _**2017 IEEE International Conference on Robotics and Automation (ICRA 2017)**_
 
-> **Shogo Nishimura**, Hiromichi Kawanami, Masayuki Kanbara, Norihiro Hagita, “Empathetic Speech Synthesis Applied to a Chat Robot to Obtain the User’s Confidence,” 2017 (Poster session.)
+> **Shogo Nishimura**, Hiromichi Kawanami, Masayuki Kanbara, Norihiro Hagita, 
+<span style="color: #DE3163;">Empathetic Speech Synthesis Applied to a Chat Robot to Obtain the User’s Confidence</span>. 2017 (Poster session.)
 
 _**The 12th International Conference on Human-Robot Interaction (HRI 2017)**_
 
-> **Kana Uotani**, Masayuki Kanbara, Shogo Nishimura, Kanda Masataka, Satoru Satake, Norihiro Hagita, “Social Common Sense Modeling of a Spread-out Queue in Public Space for a Service Robot”, 2017 (Poster session.)
+> **Kana Uotani**, Masayuki Kanbara, Shogo Nishimura, Kanda Masataka, Satoru Satake, Norihiro Hagita, 
+<span style="color: #DE3163;">Social Common Sense Modeling of a Spread-out Queue in Public Space for a Service Robot</span>. 2017 (Poster session.)
