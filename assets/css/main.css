@@ -804,6 +804,12 @@ footer {
       display: none; }
     .about-lock .flaticon-computers13 {
       display: none; } }
+    .about-lock .software-engineering {
+      display: none; }
+    .about-lock .ride-horse {
+      display: none; }
+    .about-lock .ros-kame {
+      display: none; }
 
 @media only screen and (min-width: 650px) {
   .about-lock {
@@ -832,7 +838,8 @@ footer {
     -o-justify-content: space-between;
     justify-content: space-between;
     -ms-flex-pack: justify; }
-    .about-lock .flaticon-cogwheel28 {
+    /* .about-lock .flaticon-cogwheel28 { */
+    .about-lock .software-engineering {
       -webkit-box-ordinal-group: 1;
       box-ordinal-group: 1;
       -webkit-order: 1;
@@ -840,7 +847,8 @@ footer {
       order: 1;
       -ms-flex-order: 1;
       display: block; }
-    .about-lock .flaticon-computer1 {
+    /* .about-lock .flaticon-computer1 { */
+    .about-lock .communicative-robot{
       -webkit-box-ordinal-group: 2;
       box-ordinal-group: 2;
       -webkit-order: 2;
@@ -848,7 +856,8 @@ footer {
       order: 2;
       -ms-flex-order: 2;
       display: block; }
-    .about-lock .flaticon-hosting {
+    /* .about-lock .flaticon-hosting { */
+    .about-lock .ride-horse {
       -webkit-box-ordinal-group: 4;
       box-ordinal-group: 4;
       -webkit-order: 4;
@@ -856,7 +865,8 @@ footer {
       order: 4;
       -ms-flex-order: 4;
       display: block; }
-    .about-lock .flaticon-computers13 {
+    /* .about-lock .flaticon-computers13 { */
+    .about-lock .ros-kame {
       -webkit-box-ordinal-group: 5;
       box-ordinal-group: 5;
       -webkit-order: 5;
