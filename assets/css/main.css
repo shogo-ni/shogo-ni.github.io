@@ -896,13 +896,20 @@ footer {
   margin: 50px auto;
   font-size: 22px;
   font-weight: 30;
-  text-align: center; }
+  text-align: center;
+}
 
 .section-contact {
   background: #e5eaee;
   text-align: center;
   padding-bottom: 4em;
- }
+}
+
+.section-products {
+  background: #e5eaee;
+  text-align: center;
+  padding-bottom: 4em;
+}
 
 .social-links {
   max-width: 700px;
@@ -1467,4 +1474,22 @@ form {
       left: 0px; }
 
 .temp-posts {
-  margin-bottom: 350px; }
+  margin-bottom: 350px;
+}
+
+.section-products .ojisan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ojisan img{
+  margin: 10px 20px 10px 20px;
+  width: 64px;
+  height: 64px;
+}
+
+canvas#can {
+  margin: 10px 0 10px 0;
+  border-radius: 4px;
+}
