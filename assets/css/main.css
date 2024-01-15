@@ -53,7 +53,10 @@ video {
   display: inline-block;
   /* 1 */
   vertical-align: baseline;
-  /* 2 */ }
+  /* 2 */
+  width: 100%;
+  height: auto;
+}
 
 /**
  * Prevent modern browsers from displaying `audio` without controls.
@@ -643,7 +646,8 @@ h3 {
     border-radius: 30px; } }
 
 header {
-  background: url(../img/top_summer.jpg) center center;
+  /* background: url(../img/top_summer.jpg) center center; */
+  background: url(/assets/img/osaka_thumbnail_filter.png) center center;
   background-size: cover; }
   @media only screen and (min-width: 220px) {
     header {
@@ -1411,7 +1415,8 @@ form {
 
 #h_small {
   height: 170px;
-  background: url(../img/top_summer.jpg) center center;
+  /* background: url(../img/top_summer.jpg) center center; */
+  background: url(/assets/img/osaka_thumbnail_filter.png) center center;
   background-size: cover; }
   #h_small #nav_small {
     float: right;
@@ -1492,4 +1497,5 @@ form {
 canvas#can {
   margin: 10px 0 10px 0;
   border-radius: 4px;
+  width: 50%;
 }
