@@ -40,7 +40,8 @@ menu,
 nav,
 section,
 summary {
-  display: block; }
+  display: block;
+}
 
 /**
  * 1. Correct `inline-block` display not defined in IE 8/9.
@@ -53,11 +54,11 @@ video {
   display: inline-block;
   /* 1 */
   vertical-align: baseline;
-  /* 2 */
+  /* 2 */ 
   width: 100%;
   height: auto;
+  /* object-fit: cover; */
 }
-
 /**
  * Prevent modern browsers from displaying `audio` without controls.
  * Remove excess height in iOS 5 devices.
@@ -643,35 +644,54 @@ h3 {
     background: url(../img/silhouette125.svg) no-repeat center;
     background-size: 15px;
     background-color: #303e49;
-    border-radius: 30px; } }
+    border-radius: 30px;
+  }
+}
 
 header {
   /* background: url(../img/top_summer.jpg) center center; */
   background: url(/assets/img/osaka_thumbnail_filter.png) center center;
-  background-size: cover; }
-  @media only screen and (min-width: 220px) {
-    header {
-      height: 300px; } }
-  @media only screen and (min-width: 650px) {
-    header {
-      height: 390px; } }
-  @media only screen and (min-width: 1070px) {
-    header {
-      height: 450px; } }
-  header nav {
-    float: right;
-    margin: 30px 30px 30px; }
-    header nav a {
-      margin-left: 20px;
-      color: rgba(255, 255, 255, 0.8); }
-      @media only screen and (min-width: 220px) {
-        header nav a {
-          display: none; } }
-      @media only screen and (min-width: 650px) {
-        header nav a {
-          display: inline-block; } }
-      header nav a:hover {
-        color: rgb(0, 0, 0); }
+  background-size: cover;
+}
+
+@media only screen and (min-width: 220px) {
+  header {
+    height: 300px;
+  }
+}
+@media only screen and (min-width: 650px) {
+  header {
+    height: 390px;
+  }
+}
+@media only screen and (min-width: 1070px) {
+  header {
+    height: 450px;
+  } 
+}
+
+header nav {
+  float: right;
+  margin: 30px 30px 30px;
+}
+header nav a {
+  margin-left: 20px;
+  color: rgba(255, 255, 255, 0.8);
+}
+@media only screen and (min-width: 220px) {
+  header nav a {
+    display: none;
+  }
+}
+@media only screen and (min-width: 650px) {
+  header nav a {
+    display: inline-block;
+  }
+}
+header nav a:hover {
+  color: rgb(0, 0, 0);
+}
+
   header h1 {
     text-align: center;
     color: rgba(255, 255, 255, 0.8);
@@ -713,7 +733,7 @@ header {
     color: rgba(255, 255, 255, 0.8); }
 
 footer {
-  background: url(../img/bottom_summer.jpg) center center;
+  background: url(../img/bottom_summer_filter.png) center center;
   background-size: cover; }
   footer .lockup {
     padding: 50px 30px; }
@@ -949,7 +969,10 @@ footer {
   width: 250px;
   height: 0px;
   margin: 40px auto 40px;
-  border-top: 4px solid #303e49; }
+  border-top: 4px solid #303e49;
+  z-index: 1;
+  object-fit: cover;
+}
 
 .bar-blog {
   width: 250px;
@@ -1415,7 +1438,6 @@ form {
 
 #h_small {
   height: 170px;
-  /* background: url(../img/top_summer.jpg) center center; */
   background: url(/assets/img/osaka_thumbnail_filter.png) center center;
   background-size: cover; }
   #h_small #nav_small {
@@ -1495,6 +1517,7 @@ form {
 }
 
 canvas#can {
+  width: 50%;
   margin: 10px 0 10px 0;
   border-radius: 4px;
   width: 50%;
