@@ -20,7 +20,6 @@ _**□ Applied Sciences published by Multidisciplinary Digital Publishing Instit
 <span style="color: #DE3163;">Vocal Synchrony of Robots Boosts Positive Affective Empathy</span>. Applied Sciences published by Multidisciplinary Digital Publishing Institute (MDPI), 11(6), 2502, 2021.
 
 
-
 _**□ Sensors published by Multidisciplinary Digital Publishing Institute ([MDPI](https://www.mdpi.com/journal/sensors))**_
 <div align="center">
     <a href="https://www.mdpi.com/2076-3417/11/6/2502"><img src="https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1717771543" width="14%">　　<img src="https://pub.mdpi-res.com/img/journals/sensors-logo.png?8600e93ff98dbf14" width= "40%"></a>
@@ -101,3 +100,145 @@ _**♢ The 12th International Conference on Human-Robot Interaction ([HRI 2017](
 </div>
 > **Kana Uotani**, Masayuki Kanbara, Shogo Nishimura, Kanda Masataka, Satoru Satake, Norihiro Hagita, 
 <span style="color: #DE3163;">Social Common Sense Modeling of a Spread-out Queue in Public Space for a Service Robot</span>. 2017 (Poster session.)
+
+
+
+---
+
+**博士論文**
+
+---
+<div align="center">
+    <a href="https://naist.repo.nii.ac.jp/?page=1&size=20&sort=-pyear&search_type=0&q=0"><img src="https://www.stofficetokyo.ch/sites/default/files/nara.png" width= "75%"></a>
+</div>
+
+> 奈良先端科学技術大学院大学, 2021.03
+
+> 日常的な継続利用意欲の向上を目的としたTV雑談ロボットのインタラクションデザイン / Interaction Design for TV Chat Robot to Boost a Daily-Use
+
+> <a href="https://naist.repo.nii.ac.jp/records/10943"><span style="font-size: 70%; color: gray; vertical-align: text-top; ">https://naist.repo.nii.ac.jp/records/10943</span></a>
+
+---
+
+**修士論文**
+
+---
+<div align="center">
+    <a href="https://naist.repo.nii.ac.jp/?page=1&size=20&sort=-pyear&search_type=0&q=0"><img src="https://www.stofficetokyo.ch/sites/default/files/nara.png" width= "75%"></a>
+</div>
+
+> 奈良先端科学技術大学院大学, 2016.03
+
+> 睡眠時の気道閉塞症状を軽減する頚部位置推定と頚部昇降機能付き枕デバイス / Intelligent Pillow Device with Neck Positioning and Lifting Functions for Reducing Risk of Sleep Apnea
+
+> <a href="https://naist.repo.nii.ac.jp/records/8194"><span style="font-size: 70%; color: gray; vertical-align: text-top; ">https://naist.repo.nii.ac.jp/records/8194</span></a>
+
+---
+
+**研究助成金**
+
+---
+
+_**2015年**_
+
+*2015年11月12日 ~ 2016年3月31日*
+
+> **大学発産業創出プログラム（START）技術シーズ選抜育成プロジェクト〔ロボティクス分野〕 STR27016**
+
+> 主催：国立研究開発法人 科学技術振興機構(JST)
+
+> 研究題目：睡眠時のいびき・低呼吸状態を改善するための頸部昇降アクチュエータを搭載したデバイス
+
+> 概要： チームリーダーとして参画（資金総額 2,995千円）
+
+---
+
+**受賞・表彰・メディア報道 等**
+
+---
+
+_**2024年**_
+
+*2019年 4月 22日*
+
+> **ATR 社内表彰式** 
+<span style="color: #DE3163;">**"優秀研究賞：万国博特別賞 / ATR Best Research Award: Special Award for EXPO 2025"**</span> 受賞
+
+
+> 堀川 優紀子, HITZMANN Arne, 西村 祥吾, 神谷 正明, 近藤 良久
+
+> 題目: 異種多数のサイバネティックアバター（CA）を接続できるCA基盤の研究開発とCA100体以上接続したバックキャスト型実証実験「アバター100実証実験」実施
+
+> <a href="https://dil.atr.jp/ITB/news/1595.html"><span style="font-size: 70%; color: gray; vertical-align: text-top; ">https://dil.atr.jp/ITB/news/1595.html</span></a>
+
+*2019年 4月 2日 ~*
+
+> **けいはんな Sciencepedia** 掲載
+<div align="center">
+<a href="https://keihanna-link.jp/sciencepedia/"><img src="https://keihanna-link.jp/sciencepedia/wp-content/themes/sciencepedia/img/top_img/sciencepedia_logo.svg" width= "60%"></a>
+</div>
+
+> 研究内容についての動画が公開中 ... [動画はこちら](https://youtu.be/vRSyzGhgdj8)
+
+---
+
+_**2019年**_
+
+*2019年 2月 8日*
+
+> **奈良テレビ ゆうドキ** 出演
+
+> 澤邊 太志, 西村 祥吾, 神原　誠之（インタラクティブメディア設計学）
+
+> "イト・アク食堂ツアーは 奈良先端科学技術大学院大学！ 開発されたテレビを楽しむアプリとは！"
+
+> <a href="https://isw3.naist.jp/Research/media2019-ja.html"><span style="font-size: 70%; color: gray; vertical-align: text-top; ">https://isw3.naist.jp/Research/media2019-ja.html</span></a>
+
+
+---
+
+_**2018年**_
+
+*2018年 9月 21日*
+
+> **第17回情報科学技術フォーラム FIT** 
+<span style="color: #DE3163;">**"奨励賞"**</span>
+
+> <a href="https://www.ipsj.or.jp/award/fit-syorei.html"><span style="font-size: 70%; color: gray; vertical-align: text-top; ">https://www.ipsj.or.jp/award/fit-syorei.html</span></a>
+
+
+---
+
+
+_**2016年**_
+
+*2016年 12月 15日*
+
+> **日本バーチャルリアリティ学会第19回サイバースペースと仮想都市研究会シンポジウム** 
+<span style="color: #DE3163;">**"優秀発表賞"**</span>
+
+> 西村 祥吾, 光崎 将人, 川波 弘道, 神原 誠之, 萩田 紀博
+（環境知能学研究室）
+
+> <a href="https://isw3.naist.jp/Research/awards2016-ja.html"><span style="font-size: 70%; color: gray; vertical-align: text-top; ">https://isw3.naist.jp/Research/awards2016-ja.html</span></a>
+
+*2016年 4月*
+
+> 奈良先端科学技術大学院大学 
+<span style="color: #DE3163;">**"優秀学生奨学制度"**</span> 受賞
+
+
+---
+
+_**2014年**_
+
+*2014年 12月 26日*
+
+> **立命館大学主催「第11回立命館大学学生ベンチャーコンテスト2014」**
+<span style="color: #DE3163;">**"最優秀賞"**</span>
+
+> 西村祥吾、清水解、阪林和貴、橋本太郎
+
+> 題目:Sleep Innovation 今までにない睡眠をあなたに
+
+> <a href="https://www.naist.jp/news/2014/12/000963.html"><span style="font-size: 70%; color: gray; vertical-align: text-top; ">https://www.naist.jp/news/2014/12/000963.html</span></a>
