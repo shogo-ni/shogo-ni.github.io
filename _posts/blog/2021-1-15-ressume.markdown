@@ -109,8 +109,9 @@ _**♢ The 12th International Conference on Human-Robot Interaction ([HRI 2017](
 
 ---
 <div align="center">
-    <a href="https://naist.repo.nii.ac.jp/?page=1&size=20&sort=-pyear&search_type=0&q=0"><img src="https://www.stofficetokyo.ch/sites/default/files/nara.png" width= "75%"></a>
+    <a href="https://naist.repo.nii.ac.jp/records/10943"><img src="../../../../assets/img/naist_logo.png" width= "25%"></a>
 </div>
+<!-- 旧URL https://naist.repo.nii.ac.jp/?page=1&size=20&sort=-pyear&search_type=0&q=0 -->
 
 > 奈良先端科学技術大学院大学, 2021.03
 
@@ -124,8 +125,9 @@ _**♢ The 12th International Conference on Human-Robot Interaction ([HRI 2017](
 
 ---
 <div align="center">
-    <a href="https://naist.repo.nii.ac.jp/?page=1&size=20&sort=-pyear&search_type=0&q=0"><img src="https://www.stofficetokyo.ch/sites/default/files/nara.png" width= "75%"></a>
+    <a href="https://naist.repo.nii.ac.jp/records/8194"><img src="../../../../assets/img/naist_logo.png" width= "25%"></a>
 </div>
+<!-- 旧URL https://naist.repo.nii.ac.jp/?page=1&size=20&sort=-pyear&search_type=0&q=0 -->
 
 > 奈良先端科学技術大学院大学, 2016.03
 
@@ -133,13 +135,16 @@ _**♢ The 12th International Conference on Human-Robot Interaction ([HRI 2017](
 
 > <a href="https://naist.repo.nii.ac.jp/records/8194"><span style="font-size: 70%; color: gray; vertical-align: text-top; ">https://naist.repo.nii.ac.jp/records/8194</span></a>
 
+<br>
+<br>
+<br>
+
+
 ---
 
 **研究助成金**
 
 ---
-
-_**2015年**_
 
 *2015年11月12日 ~ 2016年3月31日*
 
@@ -147,9 +152,16 @@ _**2015年**_
 
 > 主催：国立研究開発法人 科学技術振興機構(JST)
 
-> 研究題目：睡眠時のいびき・低呼吸状態を改善するための頸部昇降アクチュエータを搭載したデバイス
+<p class="blog-main">
+<a style="font-weight: bold">研究題目： </a>睡眠時のいびき・低呼吸状態を改善するための頸部昇降アクチュエータを搭載したデバイス
+<br>
+<a style="font-weight: bold">概要： </a>チームリーダーとして参画（資金総額 2,995千円）
+</p>
 
-> 概要： チームリーダーとして参画（資金総額 2,995千円）
+<br>
+<br>
+<br>
+
 
 ---
 
@@ -157,19 +169,37 @@ _**2015年**_
 
 ---
 
-_**2024年**_
+*2026年 (R8) 4月 16日*
 
-*2019年 4月 22日*
+> **ATR 社内表彰** 
+<span style="color: #DE3163;">**"優秀研究賞 / ATR Best Research Award"**</span> 受賞
 
-> **ATR 社内表彰式** 
+<div align="center">
+    <a href="https://dil.atr.jp/ITB/news/20260430-1/"><img src="../../../../assets/img/2026_atr_award.jpg" width= "70%"></a>
+</div>
+
+<p class="blog-main">
+<a style="font-weight: bold">題目： </a>大阪・関西万博におけるサイバネティック・アバターおよびアンドロイドの長期展示・実証実験の実施と社会実装推進
+</p>
+
+---
+
+*2024年 (R6) 4月 22日*
+
+> **ATR 社内表彰** 
 <span style="color: #DE3163;">**"優秀研究賞：万国博特別賞 / ATR Best Research Award: Special Award for EXPO 2025"**</span> 受賞
 
+<!-- > 堀川 優紀子, HITZMANN Arne, 西村 祥吾, 神谷 正明, 近藤 良久 -->
 
-> 堀川 優紀子, HITZMANN Arne, 西村 祥吾, 神谷 正明, 近藤 良久
+<div align="center">
+    <a href="https://dil.atr.jp/ITB/news/1595.html"><img src="../../../../assets/img/2024_atr_award.jpeg" width= "70%"></a>
+</div>
 
-> 題目: 異種多数のサイバネティックアバター（CA）を接続できるCA基盤の研究開発とCA100体以上接続したバックキャスト型実証実験「アバター100実証実験」実施
+<p class="blog-main">
+<a style="font-weight: bold">題目： </a>異種多数のサイバネティックアバター（CA）を接続できるCA基盤の研究開発とCA100体以上接続したバックキャスト型実証実験「アバター100実証実験」実施
+</p>
 
-> <a href="https://dil.atr.jp/ITB/news/1595.html"><span style="font-size: 70%; color: gray; vertical-align: text-top; ">https://dil.atr.jp/ITB/news/1595.html</span></a>
+---
 
 *2019年 4月 2日 ~*
 
@@ -178,11 +208,11 @@ _**2024年**_
 <a href="https://keihanna-link.jp/sciencepedia/"><img src="https://keihanna-link.jp/sciencepedia/wp-content/themes/sciencepedia/img/top_img/sciencepedia_logo.svg" width= "60%"></a>
 </div>
 
-> 研究内容についての動画が公開中 ... [動画はこちら](https://youtu.be/vRSyzGhgdj8)
+<p class="blog-main">
+研究内容についての紹介動画を撮影・掲載。<a href="https://youtu.be/vRSyzGhgdj8" style="font-weight: bold; color: #b900cd">こちらのサイトにて公開中</a>
+</p>
 
 ---
-
-_**2019年**_
 
 *2019年 2月 8日*
 
@@ -197,8 +227,6 @@ _**2019年**_
 
 ---
 
-_**2018年**_
-
 *2018年 9月 21日*
 
 > **第17回情報科学技術フォーラム FIT** 
@@ -208,9 +236,6 @@ _**2018年**_
 
 
 ---
-
-
-_**2016年**_
 
 *2016年 12月 15日*
 
@@ -229,8 +254,6 @@ _**2016年**_
 
 
 ---
-
-_**2014年**_
 
 *2014年 12月 26日*
 

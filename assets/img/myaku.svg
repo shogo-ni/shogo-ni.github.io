@@ -1,0 +1,61 @@
+<svg xmlns="http://w3.org" viewBox="0 0 400 400" width="100%" height="100%">
+  <!-- 背景（透過または白） -->
+  <rect width="400" height="400" fill="none"/>
+
+  <!-- 外側の赤い細胞の輪郭（有機的な連なりを再現） -->
+  <g fill="#E60012">
+    <!-- メインの大きな円 -->
+    <circle cx="200" cy="200" r="110" />
+    <!-- 周囲のコブ（細胞の連なり） -->
+    <circle cx="260" cy="120" r="45" />
+    <circle cx="300" cy="210" r="40" />
+    <circle cx="240" cy="290" r="45" />
+    <circle cx="140" cy="280" r="45" />
+    <circle cx="100" cy="180" r="45" />
+    <circle cx="140" cy="110" r="40" />
+  </g>
+
+  <!-- 中央の青い水（顔の空洞部分） -->
+  <path d="M 150 140 
+           Q 200 110 250 140 
+           Q 300 200 250 260 
+           Q 200 290 150 260 
+           Q 100 200 150 140 Z" 
+        fill="#005CAF" />
+
+  <!-- 目玉パーツ（白い土台 + 青い虹彩 + 白い瞳孔） -->
+  <!-- 1. 中央上の目 -->
+  <g>
+    <ellipse cx="200" cy="140" rx="20" ry="24" fill="#FFFFFF" transform="rotate(-5, 200, 140)" />
+    <circle cx="200" cy="140" r="10" fill="#005CAF" />
+    <circle cx="197" cy="137" r="4" fill="#FFFFFF" />
+  </g>
+
+  <!-- 2. 右上の目 -->
+  <g>
+    <ellipse cx="265" cy="125" rx="16" ry="19" fill="#FFFFFF" transform="rotate(25, 265, 125)" />
+    <circle cx="265" cy="125" r="8" fill="#005CAF" />
+    <circle cx="262" cy="122" r="3" fill="#FFFFFF" />
+  </g>
+
+  <!-- 3. 右下の目 -->
+  <g>
+    <ellipse cx="295" cy="205" rx="15" ry="18" fill="#FFFFFF" transform="rotate(-15, 295, 205)" />
+    <circle cx="293" cy="205" r="7" fill="#005CAF" />
+    <circle cx="291" cy="203" r="3" fill="#FFFFFF" />
+  </g>
+
+  <!-- 4. 左下の目 -->
+  <g>
+    <ellipse cx="115" cy="185" rx="18" ry="22" fill="#FFFFFF" transform="rotate(30, 115, 185)" />
+    <circle cx="117" cy="185" r="9" fill="#005CAF" />
+    <circle cx="115" cy="183" r="3" fill="#FFFFFF" />
+  </g>
+
+  <!-- 5. 左上の目 -->
+  <g>
+    <ellipse cx="140" cy="115" rx="15" ry="18" fill="#FFFFFF" transform="rotate(-20, 140, 115)" />
+    <circle cx="140" cy="115" r="7" fill="#005CAF" />
+    <circle cx="138" cy="113" r="3" fill="#FFFFFF" />
+  </g>
+</svg>

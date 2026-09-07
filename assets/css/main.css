@@ -745,9 +745,12 @@ footer {
       margin: 0;
       text-transform: uppercase;
       font-size: 12px;
-      color: rgba(255, 255, 255, 0.8); }
+      /* color: rgba(255, 255, 255, 0.8); */
+      color: #303e49;
+     }
     footer .lockup a {
-      color: rgba(255, 255, 255, 0.6);
+      color: #303e49;
+      /* color: rgba(255, 255, 255, 0.6); */
       display: inline-block;
       margin-right: 30px; }
       footer .lockup a:hover {
@@ -762,7 +765,9 @@ footer {
 
 @media only screen and (min-width: 220px) {
   .about-lock {
-    margin: auto; }
+    margin: auto;
+    display: flex;
+    justify-content: center; }
     .about-lock .face-img {
       height: 180px;
       width: 180px;
@@ -860,7 +865,8 @@ footer {
     -moz-justify-content: space-between;
     -ms-justify-content: space-between;
     -o-justify-content: space-between;
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    justify-content: center;
     -ms-flex-pack: justify; }
     /* .about-lock .flaticon-cogwheel28 { */
     .about-lock .software-engineering {
@@ -912,7 +918,11 @@ footer {
 
 @media only screen and (min-width: 1070px) {
   .about-lock {
-    max-width: 980px; } }
+    max-width: 980px;
+    display: flex;
+    justify-content: center;
+    /* flex-wrap: nowrap; */
+   } }
 
 .blurb {
   max-width: 750px;
@@ -932,6 +942,7 @@ footer {
 .section-products {
   background: #e5eaee;
   text-align: center;
+  padding-top: 4em;
   padding-bottom: 4em;
 }
 
@@ -1391,7 +1402,11 @@ form {
     padding-bottom: 100px; }
   .blurb-blog {
     font-size: 15px;
-    font-weight: 30; }
+    font-weight: 400; }
+  .blog-main {
+    font-size: 16px;
+    padding-left: 2.5em;
+  }
   .honeycombpic {
     width: 270px;
     height: 190px;
@@ -1410,7 +1425,11 @@ form {
     max-width: 650px; }
   .blurb-blog {
     font-size: 22px;
-    font-weight: 30; }
+    font-weight: 400; }
+  .blog-main {
+    font-size: 16px;
+    padding-left: 2.5em;
+  }
   .honeycombpic {
     width: 650px;
     height: 410px;
@@ -1429,7 +1448,11 @@ form {
     max-width: 780px; }
   .blurb-blog {
     font-size: 22px;
-    font-weight: 30; }
+    font-weight: 400; }
+  .blog-main {
+    font-size: 16px;
+    padding-left: 2.5em;
+  }
   .honeycombpic {
     width: 750px;
     height: 500px;
