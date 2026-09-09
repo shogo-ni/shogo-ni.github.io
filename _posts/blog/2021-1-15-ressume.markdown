@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "研究成果一覧"
-date: 2021-01-15 8:21:16
+title: "📚 研究成果"
+date: 2026-04-20 10:21:16 +0900
 categories: blog
 ---
+<!-- https://gray-code.com/html_css/list-of-emoji/ -->
 
 ---
 
@@ -81,9 +82,12 @@ _**♢ The 9th International Conference on Social Robotics ([ICSR 2017](https://
 > **Shogo Nishimura**, Hiromichi Kawanami, Masayuki Kanbara, and Norihiro Hagita. 
 <span style="color: #DE3163;">A TV Chat Robot with Time-Shifting Function for Daily-Use Communication</span>. pp.516-525, published by Springer, 2017 (Oral session.)
 
+<br>
+
 _**♢ The 26th IEEE International Symposium on Robot and Human Interactive Communication ([RO-MAN 2017](https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/roman/RO_MAN2017/ro-man2017.isr.uc.pt/site/index.html))**_
 <div align="center">
-    <img src="https://ro-man2017.isr.uc.pt/site/sites/default/files/imgs/ro-man2017_header_06.png" width= "65%">
+    <!-- <img src="https://ro-man2017.isr.uc.pt/site/sites/default/files/imgs/ro-man2017_header_06.png" width= "65%"> -->
+    <a href="https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/roman/RO_MAN2017/ro-man2017.isr.uc.pt/site/index.html"><img src="https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/roman/RO_MAN2017/ro-man2017.isr.uc.pt/site/sites/default/files/imgs/ro-man2017_header_06.png" width= "70%"></a>
 </div>
 > **Shogo Nishimura**, Hiromichi Kawanami, Masayuki Kanbara, Norihiro Hagita, <span style="color: #DE3163;"> TV Chat Robots Allowing Daily-Use Chat with a User by Synchronizing TV Enthusiasm”</span>, 3rd Workshop on Groups in Human-Robot Interaction, 2017 (Oral session.)
 
@@ -183,6 +187,23 @@ _**♢ The 12th International Conference on Human-Robot Interaction ([HRI 2017](
 </p>
 
 ---
+
+*2024年 (R6) 9月 25日*
+
+> **けいはんなview 2024 vol.62 寄稿**
+
+<div align="center">
+    <a href="https://keihanna-inv-hub.jp/innovation/202409251107/">
+        <img src="https://kicx-icu.com/ddc/keihannaview/pfkri/wp-content/uploads/2024/09/View62-pdf-724x1024.jpg" width= "40%" >
+    </a>
+</div>
+
+<p class="blog-main">
+2024年9月25日に発行。「あらゆる立場の人々がアバターと共に活躍できる
+未来社会を目指して」 という題目で8ページに掲載。<a href="https://kicx-icu.com/ddc/keihannaview/pfkri/wp-content/uploads/2024/09/View62.pdf" style="font-weight: bold">(PDFはこちら)</a>
+</p>
+
+<br>
 
 *2024年 (R6) 4月 22日*
 

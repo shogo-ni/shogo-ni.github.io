@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "活動記録"
-date: 2023-09-19 14:13:11
+title: "<span>&#x1F468;&#x200D;&#x1F4BB;</span> 活動記録"
+date: 2026-09-08 9:13:11 +0900
 categories: blog
 ---
+<!-- https://gray-code.com/html_css/list-of-emoji/ -->
 
 <!--  ❕ 内部リソースを参照する際の注意
     <img src="../../../../assets/img/teqs2026.webp" width="80%" type="image/webp">
-    この書き方だと404 not found エラーで描画されない
+   
     http://localhost:4000/blog/2023/09/assets/img/teqs2026.webp
     画像へのパスはこうなる
     http://localhost:4000/assets/img/id_anchor__pc.png
@@ -19,7 +20,7 @@ categories: blog
 
 ---
 
-_**[R8] 2026 / 4 / 22 wed　14:00 - 22:00**_
+**2026年 (R8) 4月 22日　14:00 - 22:00**
 
 > [**[TEQS] シミュレーションでリスク・コストを最小化！3D空間 × 強化学習でサービス開発 ＜ハンズオン＞** ](https://teqs.jp/seminar/old.php?year=2026&month=4)
 
@@ -32,9 +33,11 @@ _**[R8] 2026 / 4 / 22 wed　14:00 - 22:00**_
 <p class="blog-main">
 ATR研究員として講演。参加者がシミュレータ上での強化学習の実装支援を中心に, AIを用いたシミュレーションの活用事例について説明した。学習環境を構築し大量の経験を積ませることで、AIが自らベストな挙動に近づいていくまでの道筋を体験いただいた。
 </p>
+
 ---
 
-_**[R6] 2024 / 6 / 3 mon　10:00 - 16:00**_
+<!-- _**[R6] 2024 / 6 / 3 mon　10:00 - 16:00**_ -->
+**2024年 (R6) 6月 3日　10:00 - 16:00**
 
 > [**[けいはんな万博] キックオフイベント**](https://expokyoto.jp/event/224.html)
 
@@ -52,7 +55,8 @@ ATR研究員として講演。シンポジウムとデモブースにて動型�
 
 ---
 
-_**[R5] 2023 / 5 / 29 mon　15:00 - 18:00**_
+<!-- _**[R5] 2023 / 5 / 29 mon　15:00 - 18:00**_ -->
+**2023年 (R5) 5月 29日　15:00 - 18:00**
 
 > [**[TEQS / 会場参加型] 誰でもできるバーチャル分野への第一歩！ 3D アバターでビジネス創出！ ＜ハンズオン＞** ](https://www.sansokan.jp/events/eve_detail.san?H_A_NO=40649)
 <div align="center">
@@ -67,7 +71,8 @@ ATR研究員として講演。参加者がバーチャル空間でオリジナ�
 
 ---
 
-_**[R4] 2022 / 10 / 21 fri　15:00 - 18:00**_
+<!-- _**[R4] 2022 / 10 / 21 fri　15:00 - 18:00**_ -->
+**2022年 (R4) 10月 21日　15:00 - 18:00**
 
 > [**[TEQS / 会場参加型] Unity で学ぶロボティクスシミュレーション**](https://www.sansokan.jp/events/eve_detail.san?H_A_NO=38658)
 <div align="center">
@@ -82,7 +87,9 @@ ATR研究員として講演。参加者がバーチャル空間でオリジナ�
 
 ---
 
-_**[R4] 2022 / 1 / 14 fri　15:00 - 18:00**_
+<!-- _**[R4] 2022 / 1 / 14 fri　15:00 - 18:00**_ -->
+**2022年 (R4) 1月 14日　15:00 - 18:00**
+
 > [**[TEQS / 会場開催] バーチャル技術をビジネス活用！　－バーチャルアバター編－** ](https://www.sansokan.jp/events/eve_detail.san?H_A_NO=35848)
 <div align="center">
     <a href="https://www.sansokan.jp/events/eve_detail.san?H_A_NO=35848"><img src="https://teqs.jp/wp-content/uploads/2021/11/e33acb6b1c813d96d2840b62adcc6b7a.jpg" width= "80%"></a>
@@ -96,7 +103,9 @@ ATR研究員として講演。参加者がバーチャル空間でオリジナ�
 
 ---
 
-_**[H28] 2016 / 6 / 14 tue　16:10 - 16:30**_
+<!-- _**[H28] 2016 / 6 / 14 tue　16:10 - 16:30**_ -->
+**2016年 (H28) 6月 14日**
+
 > [**センシング技術応用セミナー 「IoTが実現する世界と現状」**](https://www.sice.jp/info/info_event/event_20160614-2.html)
 
 > 主催：センシング技術応用研究会, (一社)大阪府技術協会
@@ -111,7 +120,9 @@ _**[H28] 2016 / 6 / 14 tue　16:10 - 16:30**_
 
 ---
 
-_**[H28] 2016 / 5 / 27 fri　16:10 - 16:30**_
+<!-- _**[H28] 2016 / 5 / 27 fri　16:10 - 16:30**_ -->
+**2016年 (H28) 5月 27日　16:10 - 16:30**
+
 > [**第4回インテリジェントホームロボティクス研究会　第三セッション 若手ロボット企業家セッション**](https://www.i-homerobotics.org/activity/iHR04)
 
 > @インテックス大阪 サービスロボット開発技術展 展示会場内
@@ -132,8 +143,8 @@ _**[H28] 2016 / 5 / 27 fri　16:10 - 16:30**_
 
 ---
 
-_**[R8] 2026 / 7 / 25 sat 〜 26 sat　10:00 - 16:00**_
-
+<!-- _**[R8] 2026 / 7 / 25 sat 〜 26 sat　10:00 - 21:00**_ -->
+**2026年 (R8) 7月 25日 ～ 9月 26日　10:00 - 21:00**
 
 > [**いのちの未来＋**](https://montakanawa.jp/programs/future_of_life/)
 
@@ -150,8 +161,8 @@ ATR研究員として参加。2025年度の『いのちの未来』での展示�
 
 ---
 
-_**[R7] 2025 / 9 / 14 sun**_
-
+<!-- _**[R7] 2025 / 9 / 14 sun**_ -->
+**2025年 (R7) 9月 14日**
 
 > [**「いのちの未来」×「ヨルダン館」コラボイベント**](https://www.instagram.com/p/DOpOHO9kk2z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
@@ -167,8 +178,8 @@ ATR研究員として参加。大阪・関西万博 ヨルダン館で、シグ�
 
 <br>
 
-_**[R7] 2025 / 4 / 19 sat　13:00 - 16:45**_
-
+<!-- _**[R7] 2025 / 4 / 19 sat　13:00 - 16:45**_ -->
+**2025年 (R7) 4月 19日　13:00 - 16:45**
 
 > [**「FUTURE OF LIFE いのちの未来」オープニングイベント**](https://www.instagram.com/p/DIOFJD5S3Mv/)
 
@@ -186,8 +197,8 @@ ATR研究員として参加。ライブ会場を舞台に、MCとして移動型
 
 <br>
 
-_**[R7] 2025 / 4 / 10 tue 〜 29 sun　9:00 - 21:00**_
-
+<!-- _**[R7] 2025 / 4 / 10 tue 〜 29 sun　9:00 - 21:00**_ -->
+**2025年 (R7) 4月 10日 ～ 10月 13日　9:00 - 21:00**
 
 > [**いのちの未来**](https://www.expo2025.or.jp/expo-archive/project/ishiguro/)
 
@@ -205,7 +216,8 @@ ATR研究員として参加。石黒浩氏のプロデュースするシグネ�
 
 ---
 
-_**[R6] 2024 / 9 / 10 tue 〜 29 sun　10:00 - 16:00**_
+<!-- _**[R6] 2024 / 9 / 10 tue 〜 29 sun　10:00 - 16:00**_ -->
+**2024年 (R6) 9月 10日 ～ 29日　10:00 - 16:00**
 
 > [**アバターランド**](https://avatar-ss-land.iroobo.jp/)
 
@@ -223,7 +235,8 @@ ATR研究員として参加。JAM BASE ピロティ広場を、ロボットア�
 
 ---
 
-_**[R5] 2023 / 7 / 10 Mon 〜 20 thu　10:00 - 17:00**_
+<!-- _**[R5] 2023 / 7 / 10 Mon 〜 20 thu　10:00 - 17:00**_ -->
+**2023年 (R5) 7月 10日 ～ 20日　10:00 - 17:00**
 
 > [**アバター 100 実証実験「アバターまつり」**](https://avatar-ss-fes.iroobo.jp/)
 
@@ -239,7 +252,8 @@ ATR研究員として参加。テレコでガイド！ 〜移動型アバター�
 
 ---
 
-_**[R4] 2022 / 11 / 5 sat 〜 6 sun　10:00 - 16:00**_
+<!-- _**[R4] 2022 / 11 / 5 sat 〜 6 sun　10:00 - 16:00**_ -->
+**2022年 (R4) 11月 5日 ～ 6日　10:00 - 16:00**
 
 > [**HANAZONO EXPO (2022)**](https://yumeshimakikou.org/info/hanazono-expo/)
 <!-- archive https://www.city.higashiosaka.lg.jp/0000033789.html -->
@@ -278,6 +292,23 @@ ATRにて例年10月に、技術紹介の展示やロボットの動作デモを
 
 ---
 
+[**UAE/ドバイでの実証実験**](https://note-moonshot.jst.go.jp/n/n540389ca4948)
+
+<div align="center">
+    <img src="../../../../assets/img/dubai_remote_sightseeing.png" width="80%">
+</div>
+<p class="blog-main">
+2023年(R5)11月29日 ～ 12月1日、ドバイの博物館：<a href="https://museumofthefuture.ae/en" style="font-weight: bold">Museum of the Future</a> に移動型アバターを設置。ATR（京都）にいる実験参加者がアバターを操作し館内を巡回する形で遠隔観光を実施。操作者のユーザ体験、サービス利用意欲、システムのユーザビリティ等の評価を行った。<br>
+</p>
+<div align="center">
+    <img src="../../../../assets/img/dubai_cultural_difference.png" width="70%">
+</div>
+<p class="blog-main">
+2024年(R6)3月18日 ～ 22日、ドバイ <a href="https://en.wikipedia.org/wiki/Emirates_Towers" style="font-weight: bold">Emirates Towers</a> の展示ブースにて、移動型アバターを用いた遠隔プレゼン（ポスター紹介）を行い、異文化圏でのアバターに対する人々の接し方について調査を行った。
+</p>
+
+---
+
 [**アバター共生社会 企業コンソーシアム** ](https://avatar-ss-c-cas2.iroobo.jp)
 
 <div align="center">
@@ -300,13 +331,14 @@ ATRにて例年10月に、技術紹介の展示やロボットの動作デモを
 <br>
 
 <p class="blog-main">
-令和2年より、<a href="https://www8.cao.go.jp/cstp/moonshot/sub1.html" style="font-weight: bold">ムーンショット型研究開発事業 目標１「誰もが自在に活躍できるアバター共生社会の実現」</a>研究開発プロジェクトが始動。ATR研究員として令和3年4月から参画。<br>
+令和2年より、<a href="https://www8.cao.go.jp/cstp/moonshot/sub1.html" style="font-weight: bold">ムーンショット型研究開発事業 目標１「誰もが自在に活躍できるアバター共生社会の実現」</a>研究開発プロジェクトが始動。ATR研究員として令和3年4月から参画。 
+<a href="https://www8.cao.go.jp/cstp/moonshot/system.html" style="font-size: 0.75em; font-weight:bold">(ムーンショット型研究開発制度とは？)</a><br>
 <br>
-2030年までに、アバター遠隔操作技術によって操作者の身体的・認知的能力を拡張し、操作者の活力（生産性や学習効果）を増強したうえで、複数人の操作者が複数体のCAを遠隔操作することで教育や医療等の仕事に従事できるようになることを目指す
-<a href="https://www.jst.go.jp/moonshot/program/goal1/11_ishiguro.html" style="font-weight: bold"> [引用1]</a>。
+2030年までに、アバター遠隔操作技術によって操作者の身体的・認知的能力を拡張し、操作者の活力（生産性や学習効果）を増強したうえで、複数人の操作者が複数体のCAを遠隔操作することで教育や医療等の仕事に従事できるようになることを目指す。
+<a href="https://www.jst.go.jp/moonshot/program/goal1/11_ishiguro.html" style="font-size: 0.75em; font-weight: bold"> [引用1]</a>
 <br>
-本プロジェクトの取り組みの一環として2025年、<a href="https://www.atr.jp/topics/press_250414.html" style="font-weight: bold">アバター共生社会大規模実証実験</a>を、日本国際博覧会（大阪・関西万博）にて、１日12時間、184日間にわたり長期的に実施。18,000を超える公演を通して遠隔操作システムの安定運用を実証した
-<a href="https://www.jst.go.jp/moonshot/program/pdf/ms1_r7_gaibu_pg.pdf" style="font-weight: bold"> [引用2]</a>。<br>
+本プロジェクトの取り組みの一環として2025年、<a href="https://www.atr.jp/topics/press_250414.html" style="font-weight: bold">アバター共生社会大規模実証実験</a>を、<a href="https://shogo-ni.github.io/blog/2023/09/19/activity-log.html#:~:text=%5BR7%5D%202025%20/%204%20/%2010%20tue%20%E3%80%9C%2029%20sun%E3%80%809%3A00%20%2D%2021%3A00">日本国際博覧会（大阪・関西万博）</a>にて、１日12時間、184日間にわたり長期的に実施。18,000を超える公演を通して遠隔操作システムの安定運用を実証した。
+<a href="https://www.jst.go.jp/moonshot/program/pdf/ms1_r7_gaibu_pg.pdf" style="font-size: 0.75em;; font-weight: bold"> [引用2]</a><br>
 <br>
 令和7年からは、外部からのプロジェクト評価を経て予算投下の継続が決定し、2050 年までに人が身体、脳、空間、時間の制約から解放された社会を実現し、誰もが多様な社会活動に参画できることを目指す。
 </p>

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "国内学会・研究会発表履歴"
+title: "<span>&#x1F468;&#x200D;&#x1F3EB;</span> 国内学会・研究会発表"
 date: 2021-01-15 8:31:11
 categories: blog
 ---
+<!-- https://gray-code.com/html_css/list-of-emoji/ -->
 
 _**HAI(Human-Agent Interaction)シンポジウム 2018**_
 
